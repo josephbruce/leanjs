@@ -18,6 +18,7 @@ const sidebars = {
     "getting-started",
     "contributing",
     "development-notes",
+    "easter-eggs",
   ],
 };
 
